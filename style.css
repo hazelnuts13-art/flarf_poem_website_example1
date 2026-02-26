@@ -5,6 +5,13 @@ margin-top: 15px;
 }
 body { 
    background-image: url("do you wanna fight.jpg");
+   background-color: #cccccc;
+   height: 100% 
+   width: 500px 
+   background-position: center;
+   background-repeat: no repeat; 
+   background-size: cover; 
+   position: relative 
 
 h1 { 
    color: darkblue;
