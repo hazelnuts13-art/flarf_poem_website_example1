@@ -1,3 +1,5 @@
-# flarf_poem_website_example1
+[text](URL) 
 
-Example website for flarf poetry. Project 1 IDEAS120
+![Drawing hamster meme](https://www.pinterest.com/pin/41939840274955660/)
+![Drawing hamster meme](drawing hamster meme.jpg)  
+
