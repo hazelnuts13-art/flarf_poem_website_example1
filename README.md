@@ -9,7 +9,9 @@
 ![do you wanna fight](https://i.pinimg.com/236x/3f/c4/a8/3fc4a884a3d0ec5b75b0ceb4c73c712e.jpg)
 
 [text](URL)
-![reaction face](https://i.pinimg.com/236x/3f/c4/a8/3fc4a884a3d0ec5b75b0ceb4c73c712e.jpg) 
+![reaction face](https://in.pinterest.com/pin/884324076828569646/) 
+
+![reaction face](https://i.pinimg.com/736x/73/c2/6f/73c26f68cd797b85c39035c3e2560cfa.jpg)
 
 
 [text](URL) 
