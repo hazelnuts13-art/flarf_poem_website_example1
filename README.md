@@ -6,6 +6,6 @@
 
 
 [text](URL) 
-![Awkward meme](https://tenor.com/view/yes-awkward-black-kid-gif-14606599)
+![Awkward.gif](https://tenor.com/view/yes-awkward-black-kid-gif-14606599)
 
-![Awkard meme](https://media.tenor.com/Qk9SE5aOLPEAAAAe/yes-awkward.png) 
+![Awkard.gif](https://media.tenor.com/Qk9SE5aOLPEAAAAe/yes-awkward.png) 
